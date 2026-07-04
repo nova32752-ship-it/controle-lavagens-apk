@@ -1,7 +1,7 @@
 {
-    "versionCode":  21,
-    "versionName":  "0.21.0",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.21.0/controle-lavagens-v21-quickdebug.apk",
-    "sizeBytes":  8629743,
-    "sha256":  "f57c7230a505cce32d51ef8981675f938cb2af70d9362357d83e7239a0d3c5be"
+    "versionCode":  22,
+    "versionName":  "0.22.0",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.22.0/controle-lavagens-v22-quickdebug.apk",
+    "sizeBytes":  8629659,
+    "sha256":  "678b0d1b6356e368fb3339c8ecb366dd03b13ee78cc20083927ccbaab6a2b9a7"
 }
