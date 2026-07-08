@@ -1,7 +1,8 @@
 {
-    "versionCode":  33,
-    "versionName":  "0.33.0",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.33.0/controle-lavagens-v33-quickdebug.apk",
-    "sizeBytes":  8662415,
-    "sha256":  "fb13c314fe091febf1f96dbb40549bf927113e2675619b89536baf5dc09460bc"
+    "versionCode":  35,
+    "versionName":  "0.35.0",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.35.0/controle-lavagens-v35-release.apk",
+    "sizeBytes":  1979330,
+    "sha256":  "c5ad14648c29bbad675c12119ad177aa260748ae775e981b06a294f921a7b6e9",
+    "releaseNotes":  "AtualizaÃ§Ã£o visual e de navegaÃ§Ã£o:\n- Ã­cone de ranking adicionado (em desenvolvimento);\n- botÃ£o de configuraÃ§Ã£o atualizado para Ã­cone de foto;\n- interface de configuraÃ§Ã£o ajustada;\n- cards com visual aprimorado;\n- melhorias gerais na usabilidade e apresentaÃ§Ã£o."
 }
