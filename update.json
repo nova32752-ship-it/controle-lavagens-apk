@@ -1,8 +1,8 @@
 {
-    "versionCode":  35,
-    "versionName":  "0.35.0",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.35.0/controle-lavagens-v35-release.apk",
-    "sizeBytes":  1979330,
-    "sha256":  "c5ad14648c29bbad675c12119ad177aa260748ae775e981b06a294f921a7b6e9",
-    "releaseNotes":  "AtualizaÃ§Ã£o visual e de navegaÃ§Ã£o:\n- Ã­cone de ranking adicionado (em desenvolvimento);\n- botÃ£o de configuraÃ§Ã£o atualizado para Ã­cone de foto;\n- interface de configuraÃ§Ã£o ajustada;\n- cards com visual aprimorado;\n- melhorias gerais na usabilidade e apresentaÃ§Ã£o."
+    "versionCode":  36,
+    "versionName":  "0.36.0",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.36.0/controle-lavagens-v36-release.apk",
+    "sizeBytes":  1996427,
+    "sha256":  "d0436ae4d91fe59f3c655fc6658b1d657e92c625b6a50eae925982e016c8d0d1",
+    "releaseNotes":  "Permissoes de acesso reorganizadas:\n- tela inicial com os cards Usuarios, Pendentes e Bloqueados;\n- cada card abre uma tela propria, sem listas duplicadas;\n- Usuarios mostra contas aprovadas e funcionarios liberados;\n- Pendentes mostra pedidos de entrada com opcoes de aprovar ou bloquear;\n- Bloqueados mostra contas suspensas com opcao de remover o bloqueio;\n- contas ja conectadas antes continuam sendo reconhecidas como aprovadas quando permitido pelo sistema."
 }
