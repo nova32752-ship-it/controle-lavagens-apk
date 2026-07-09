@@ -1,8 +1,8 @@
 {
-    "versionCode":  36,
-    "versionName":  "0.36.0",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.36.0/controle-lavagens-v36-release.apk",
-    "sizeBytes":  1996427,
-    "sha256":  "d0436ae4d91fe59f3c655fc6658b1d657e92c625b6a50eae925982e016c8d0d1",
-    "releaseNotes":  "Permissoes de acesso reorganizadas:\n- tela inicial com os cards Usuarios, Pendentes e Bloqueados;\n- cada card abre uma tela propria, sem listas duplicadas;\n- Usuarios mostra contas aprovadas e funcionarios liberados;\n- Pendentes mostra pedidos de entrada com opcoes de aprovar ou bloquear;\n- Bloqueados mostra contas suspensas com opcao de remover o bloqueio;\n- contas ja conectadas antes continuam sendo reconhecidas como aprovadas quando permitido pelo sistema."
+    "versionCode":  37,
+    "versionName":  "0.37.0",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.37.0/controle-lavagens-v37-release.apk",
+    "sizeBytes":  1635066,
+    "sha256":  "c69d4c910da9321f73583434d9c7208be69b280e84412d8e1bbdbdee13676a30",
+    "releaseNotes":  "- Tela de login Google redesenhada com painel cyberpunk, holograma animado, chips tecnicos e botao neon.\n- Tela de atualizacao reorganizada, com icone mais claro, menos textos repetidos e visual alinhado as cores do app.\n- Dashboard inicial reorganizado, com ganho em destaque maior e cards recentes mais legiveis.\n- Texto Meu ganho e valor dos cards de lavagem aumentados para melhorar a leitura.\n- Etiqueta Pendente dos cards agora aparece em laranja com icone de relogio.\n- APK release mais enxuto, com empacotamento limitado a ARM de celular e remocao de recursos desnecessarios.\n- Limpezas internas de manutencao e correcao na tela de Aparencia.\n- Codigo-fonte do app revisado e unificado, reduzindo repeticoes internas sem mudanca visual ou perda de funcionalidade.\n- Usuarios ja aprovados continuam entrando com permissao em cache quando a internet cai temporariamente."
 }
