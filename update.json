@@ -1,8 +1,8 @@
 {
-    "versionCode":  38,
-    "versionName":  "0.38.0",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.38.0/controle-lavagens-v38-release.apk",
-    "sizeBytes":  3762857,
-    "sha256":  "db698ec9cf02c4365138fb4986db198b738895a421a43dea8d7fd22d2f899577",
-    "releaseNotes":  "- Tela de atualizacao voltou ao visual cyberpunk futurista, com holograma animado e cores alinhadas ao tema do app.\n- Componentes visuais recentes foram limpos e reutilizados para reduzir duplicacao interna."
+    "versionCode":  39,
+    "versionName":  "0.39.0",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.39.0/controle-lavagens-v39-release.apk",
+    "sizeBytes":  3638291,
+    "sha256":  "fc1d8b224e5d0635ac234346ee5fca3e3c57e0f12ae7c1e0ba8e33bf01cd5e35",
+    "releaseNotes":  "- Nova area de Backup nas Configuracoes, com exportacao das lavagens em PDF e Excel no formato de tabela e uma copia completa em JSON.\n- Os arquivos de backup preservam detalhes e observacoes das lavagens; o app tambem avisa quando existem dados locais aguardando sincronizacao.\n- A atualizacao agora e obrigatoria quando o app fica mais de 3 versoes atras, impedindo o uso ate a instalacao da versao nova.\n- Protecao do backend preparada com Firebase App Check e Play Integrity para recusar APKs modificados depois da ativacao segura no Firebase."
 }
