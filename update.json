@@ -1,8 +1,8 @@
 {
-    "versionCode":  40,
-    "versionName":  "0.40.0",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.40.0/controle-lavagens-v40-release.apk",
-    "sizeBytes":  3804640,
-    "sha256":  "6145a62c86f3c57ac16cbefd4a8c600a35af1ec8936e53e4cf73aa2723d0d642",
-    "releaseNotes":  "- Aparencia do app reorganizada: Sistema, Claro e Escuro formam os temas padrao, enquanto AMOLED e Cyberpunk ficam como personalizacoes extras.\n- Cyberpunk agora usa sempre a paleta escura com o visual neon original; os cards de tema ficaram mais limpos, sem amostras de cores nem o texto \"Em uso\".\n- A arte original da tela de login foi preservada em todos os temas."
+    "versionCode":  41,
+    "versionName":  "0.41.0",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.0/controle-lavagens-v41-release.apk",
+    "sizeBytes":  3897832,
+    "sha256":  "5b49e39afb5837f4f6b89e0aa138a05bbe53484633367261dfcf5fc08770f13b",
+    "releaseNotes":  "- Permissoes ficaram mais organizadas e o estado Online/Offline passou a acompanhar conexoes reais, inclusive em multiplos aparelhos, quedas de rede e fechamento do app.\n- Historico ganhou filtros combinados e detalhes expansivos; Relatorios recebeu totais, graficos 3D, mes atual, tabela pesquisavel e detalhes por registro.\n- O cadastro recupera etapa, rascunho, status e observacao quando o Android recria a tela; a copia JSON agora restaura os dados com validacao SHA-256 na mesma conta Google.\n- Listas extensas e totais financeiros ficaram mais leves e consistentes, com carregamento incremental e valores estruturados em centavos.\n- Navegacao, cards, sincronizacao, regras de acesso, verificacao da conta criadora e fotos receberam melhorias internas de estabilidade e seguranca."
 }
