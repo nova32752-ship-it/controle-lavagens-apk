@@ -1,8 +1,8 @@
 {
-    "versionCode":  43,
-    "versionName":  "0.41.3",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.3/controle-lavagens-v43-release.apk",
-    "sizeBytes":  3915012,
-    "sha256":  "58565e79c75cee9633be1b2b25f1f7646020e854cddd45284f5a0361b5651235",
-    "releaseNotes":  "- O login Google ficou mais confiavel em redes Wi-Fi diferentes, lentas ou instaveis: o app aguarda a resposta real e repete automaticamente somente falhas temporarias de conexao.\n- A verificacao de acesso tambem tenta novamente quando a rede ou o Firebase sofrem uma interrupcao temporaria, sem repetir erros de conta, permissao ou configuracao.\n- Falhas, travamentos e ANRs agora geram relatorios tecnicos mais completos para o criador, incluindo contexto seguro da rede, sem enviar Gmail, nome, senha do Wi-Fi, SSID ou dados das lavagens."
+    "versionCode":  44,
+    "versionName":  "0.41.4",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.4/controle-lavagens-v44-release.apk",
+    "sizeBytes":  3915023,
+    "sha256":  "a9d26748cc6df117b52d3823d76480357c4dca50f2488de4e9ae90685403f700",
+    "releaseNotes":  "- O login Google deixou de ficar carregando sem fim quando o Firebase nao responde: cada tentativa sem retorno e refeita automaticamente, a espera total termina em 90 segundos e o app mostra uma orientacao clara para trocar ou melhorar a conexao.\n- O Crashlytics agora identifica essa espera esgotada como falha de rede, permitindo distinguir o problema de erros de conta, permissao ou configuracao."
 }
