@@ -1,8 +1,8 @@
 {
-    "versionCode":  44,
-    "versionName":  "0.41.4",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.4/controle-lavagens-v44-release.apk",
-    "sizeBytes":  3915023,
-    "sha256":  "a9d26748cc6df117b52d3823d76480357c4dca50f2488de4e9ae90685403f700",
-    "releaseNotes":  "- O login Google deixou de ficar carregando sem fim quando o Firebase nao responde: cada tentativa sem retorno e refeita automaticamente, a espera total termina em 90 segundos e o app mostra uma orientacao clara para trocar ou melhorar a conexao.\n- O Crashlytics agora identifica essa espera esgotada como falha de rede, permitindo distinguir o problema de erros de conta, permissao ou configuracao."
+    "versionCode":  45,
+    "versionName":  "0.41.5",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.5/controle-lavagens-v45-release.apk",
+    "sizeBytes":  3898526,
+    "sha256":  "43f05c34dffe54823e9161cf0cfca6b4ea3e3348232c52eb667390dc5e0f3171",
+    "releaseNotes":  "- O login do APK instalado fora da Play Store nao fica mais aguardando a atestacao Play Integrity antes do Firebase Auth, evitando que esse servico bloqueie a entrada em redes Wi-Fi lentas ou instaveis.\n- Firebase Auth e as regras dos bancos continuam protegendo os dados; App Check so voltara depois de configurado e validado especificamente para distribuicao externa por APK."
 }
