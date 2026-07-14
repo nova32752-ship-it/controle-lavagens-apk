@@ -1,8 +1,8 @@
 {
-    "versionCode":  42,
-    "versionName":  "0.41.2",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.2/controle-lavagens-v42-release.apk",
-    "sizeBytes":  3898644,
-    "sha256":  "4a8a9052d2d747f0a396f0ed906f12442d865bf617900f36eb06e4d3a8af86ab",
-    "releaseNotes":  "- Cadastros Pendentes e Pagos agora exigem valor maior que zero, com validacao reforcada na tela, no armazenamento e no Firestore.\n- Novos cadastros ficaram mais seguros contra duplicacoes em recriacoes da tela e novas tentativas; operacoes demoradas continuam pela sincronizacao local sem travar o aplicativo.\n- A exportacao de backups preserva o arquivo preparado quando o Android recria a tela durante a escolha do destino.\n- A publicacao passou a confirmar que o SHA-256 configurado pertence ao certificado real da chave de release.\n- O publicador agora sempre pergunta a versao no formato X.Y.Z, permitindo escolher nomes como 0.41.2 e mantendo as notas ligadas a versao informada."
+    "versionCode":  43,
+    "versionName":  "0.41.3",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.3/controle-lavagens-v43-release.apk",
+    "sizeBytes":  3915012,
+    "sha256":  "58565e79c75cee9633be1b2b25f1f7646020e854cddd45284f5a0361b5651235",
+    "releaseNotes":  "- O login Google ficou mais confiavel em redes Wi-Fi diferentes, lentas ou instaveis: o app aguarda a resposta real e repete automaticamente somente falhas temporarias de conexao.\n- A verificacao de acesso tambem tenta novamente quando a rede ou o Firebase sofrem uma interrupcao temporaria, sem repetir erros de conta, permissao ou configuracao.\n- Falhas, travamentos e ANRs agora geram relatorios tecnicos mais completos para o criador, incluindo contexto seguro da rede, sem enviar Gmail, nome, senha do Wi-Fi, SSID ou dados das lavagens."
 }
