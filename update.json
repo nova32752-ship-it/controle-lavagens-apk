@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "0.41.5",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.5/controle-lavagens-v45-release.apk",
-    "sizeBytes":  3898526,
-    "sha256":  "43f05c34dffe54823e9161cf0cfca6b4ea3e3348232c52eb667390dc5e0f3171",
-    "releaseNotes":  "- O login do APK instalado fora da Play Store nao fica mais aguardando a atestacao Play Integrity antes do Firebase Auth, evitando que esse servico bloqueie a entrada em redes Wi-Fi lentas ou instaveis.\n- Firebase Auth e as regras dos bancos continuam protegendo os dados; App Check so voltara depois de configurado e validado especificamente para distribuicao externa por APK."
+    "versionCode":  46,
+    "versionName":  "0.41.6",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.6/controle-lavagens-v46-release.apk",
+    "sizeBytes":  3898532,
+    "sha256":  "5d91e6517012e00030b8f2f920b28474ceb9d646af634bd6344902707a3590ff",
+    "releaseNotes":  "- Configuracoes exageradamente altas ou baixas de DPI nao deixam mais a interface grande ou pequena demais: o app recupera suas proporcoes normais sem alterar a configuracao do celular.\n- O cadastro de lavagens em quatro etapas ficou mais limpo e direto, com progresso compacto, titulos sem repeticao e orientacoes exibidas somente quando ajudam a preencher o registro.\n- Nas telas secundarias, o retorno duplicado foi removido porque o botao ou gesto Voltar do Android ja faz a mesma acao; no cadastro, o botao Voltar permanece ao lado de Continuar ou Salvar registro para trocar de etapa sem perder rascunho, status ou observacao.\n- Em Relatorios, a pesquisa agora abre e fecha com animacao, troca suavemente entre os icones de pesquisar e fechar e nao cobre mais o titulo Lavagens salvas."
 }
