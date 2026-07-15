@@ -1,8 +1,8 @@
 {
-    "versionCode":  47,
-    "versionName":  "0.41.7",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.7/controle-lavagens-v47-release.apk",
-    "sizeBytes":  3900131,
-    "sha256":  "bb00a1b5d458563f12944cf84be05b650ee613d005850f710693f59e26c5e359",
-    "releaseNotes":  "- Todos os avisos toast ficaram menores e padronizados, sem o icone grande do Android e sem ocupar espaco excessivo. Mensagens de tema, cadastro, backup e atualizacao agora usam o mesmo visual compacto, preservando a leitura de textos longos e ficando acima da navegacao inferior."
+    "versionCode":  48,
+    "versionName":  "0.41.8",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.8/controle-lavagens-v48-release.apk",
+    "sizeBytes":  3718925,
+    "sha256":  "6c24ea63d01e636af5121f3280a72799b43dce04f0e34cfab71f3928bacaed4a",
+    "releaseNotes":  "- O APK instalado fora da Play Store deixou de incluir Play Integrity e o componente reCAPTCHA trazidos pelo Firebase Auth para verificacao de login por telefone, recurso que o app nao usa. O login Google, o Firebase Auth e as regras dos bancos continuam ativos, sem App Check ou atestacao no cliente."
 }
