@@ -1,8 +1,8 @@
 {
-    "versionCode":  46,
-    "versionName":  "0.41.6",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.6/controle-lavagens-v46-release.apk",
-    "sizeBytes":  3898532,
-    "sha256":  "5d91e6517012e00030b8f2f920b28474ceb9d646af634bd6344902707a3590ff",
-    "releaseNotes":  "- Configuracoes exageradamente altas ou baixas de DPI nao deixam mais a interface grande ou pequena demais: o app recupera suas proporcoes normais sem alterar a configuracao do celular.\n- O cadastro de lavagens em quatro etapas ficou mais limpo e direto, com progresso compacto, titulos sem repeticao e orientacoes exibidas somente quando ajudam a preencher o registro.\n- Nas telas secundarias, o retorno duplicado foi removido porque o botao ou gesto Voltar do Android ja faz a mesma acao; no cadastro, o botao Voltar permanece ao lado de Continuar ou Salvar registro para trocar de etapa sem perder rascunho, status ou observacao.\n- Em Relatorios, a pesquisa agora abre e fecha com animacao, troca suavemente entre os icones de pesquisar e fechar e nao cobre mais o titulo Lavagens salvas."
+    "versionCode":  47,
+    "versionName":  "0.41.7",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.7/controle-lavagens-v47-release.apk",
+    "sizeBytes":  3900131,
+    "sha256":  "bb00a1b5d458563f12944cf84be05b650ee613d005850f710693f59e26c5e359",
+    "releaseNotes":  "- Todos os avisos toast ficaram menores e padronizados, sem o icone grande do Android e sem ocupar espaco excessivo. Mensagens de tema, cadastro, backup e atualizacao agora usam o mesmo visual compacto, preservando a leitura de textos longos e ficando acima da navegacao inferior."
 }
