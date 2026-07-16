@@ -1,8 +1,8 @@
 {
-    "versionCode":  48,
-    "versionName":  "0.41.8",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.8/controle-lavagens-v48-release.apk",
-    "sizeBytes":  3718925,
-    "sha256":  "6c24ea63d01e636af5121f3280a72799b43dce04f0e34cfab71f3928bacaed4a",
-    "releaseNotes":  "- O APK instalado fora da Play Store deixou de incluir Play Integrity e o componente reCAPTCHA trazidos pelo Firebase Auth para verificacao de login por telefone, recurso que o app nao usa. O login Google, o Firebase Auth e as regras dos bancos continuam ativos, sem App Check ou atestacao no cliente."
+    "versionCode":  49,
+    "versionName":  "0.41.9",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.41.9/controle-lavagens-v49-release.apk",
+    "sizeBytes":  3768886,
+    "sha256":  "b72898ffa259de3a3082b5044b7407cf716720d1d88195115239fe114db39cb9",
+    "releaseNotes":  "- O app agora mostra apenas um aviso por atualizacao mesmo fechado ou removido dos recentes; ao abrir, o aviso dá lugar ao diálogo, e a bateria configurada como `Restrito` bloqueia a notificacao de fundo.\n- Relatorios ficou mais organizado e legivel: informacoes repetidas foram removidas, os detalhes foram centralizados e o cabecalho `Junto com` passou a ser `Lavei com`.\n- A tabela de lavagens salvas ganhou textos maiores sem aumentar o card. As colunas ficaram mais compactas e os conteudos quebram em novas linhas sem cortes ou reticencias.\n- Os cards de valor total e meu ganho foram centralizados, e o grafico semanal agora usa barras 3D padronizadas, variando apenas a altura conforme o desempenho.\n- A barra inferior recebeu o visual Cyberpunk completo e deixou de exibir o risco abaixo do texto selecionado.\n- A pesquisa de Relatorios nao usa mais um botao `X` proprio; abertura, teclado e retorno seguem o fluxo normal do Android.\n- Ao editar uma lavagem, o app volta a usar as mesmas quatro etapas do cadastro, preservando veiculo, cliente, servico, status, valor, data, turno, participantes e observacao."
 }
