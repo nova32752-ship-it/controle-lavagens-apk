@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "0.43.3",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.43.3/controle-lavagens-v54-release.apk",
-  "sizeBytes": 4136101,
-  "sha256": "6bee9ae214dedbe830616a128c567b2d20d19f04a8d0052f906a70ab7a23df16",
-  "releaseNotes": "- Corrigidos fechamentos no Android 6 ao abrir o aplicativo e ordenar dados. Tema, permissoes, listas e copia JSON usam APIs compativeis; o cadastro tambem conserva o texto dos participantes nas versoes antigas. Valores, status e observacoes salvos permanecem preservados."
+  "versionCode": 55,
+  "versionName": "0.43.4",
+  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.43.4/controle-lavagens-v55-release.apk",
+  "sizeBytes": 4137138,
+  "sha256": "4fdf17d5c745c4ecf5c3ea03e6fb239810756b822db1c9679e2d21f18e89e0f8",
+  "releaseNotes": "- A tela de entrada acompanha a fonte personalizada e o tamanho de exibicao do celular. Textos e botao Google se ajustam em retrato ou paisagem, com rolagem e sem esticar a ilustracao.\n- O progresso de login ficou visivel e deixou de executar uma animacao continua. Diagnosticos nao incluem mais o identificador da conta; notas, valores e observacoes salvos permanecem preservados."
 }
