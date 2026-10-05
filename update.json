@@ -1,8 +1,8 @@
 {
-  "versionCode": 53,
-  "versionName": "0.43.2",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.43.2/controle-lavagens-v53-release.apk",
-  "sizeBytes": 4136096,
-  "sha256": "7d746dd1cec67801ba9435631fabe12186e8c1a1c28f6b2dc639a288487743e4",
-  "releaseNotes": "- A tela Notificacoes agora permite abrir uma atualizacao disponivel pelo botao Ver atualizacao, mesmo depois de escolher Lembrar depois. O aplicativo conserva o download em andamento e as verificacoes de seguranca antes da instalacao."
+  "versionCode": 54,
+  "versionName": "0.43.3",
+  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.43.3/controle-lavagens-v54-release.apk",
+  "sizeBytes": 4136101,
+  "sha256": "6bee9ae214dedbe830616a128c567b2d20d19f04a8d0052f906a70ab7a23df16",
+  "releaseNotes": "- Corrigidos fechamentos no Android 6 ao abrir o aplicativo e ordenar dados. Tema, permissoes, listas e copia JSON usam APIs compativeis; o cadastro tambem conserva o texto dos participantes nas versoes antigas. Valores, status e observacoes salvos permanecem preservados."
 }
