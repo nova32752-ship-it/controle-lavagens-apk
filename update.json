@@ -1,8 +1,8 @@
 {
-  "versionCode": 52,
-  "versionName": "0.43.1",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.43.1/controle-lavagens-v52-release.apk",
-  "sizeBytes": 4135985,
-  "sha256": "adf33cd463ba2c8448ac32373ae74622f289382d60440caec4052a2ad73f3c3a",
-  "releaseNotes": "- Cadastro e edicao preservam rascunhos, situacao e observacoes ao girar a tela ou retomar o aplicativo. Sair de uma edicao ou de um perfil alterado pede confirmacao.\n- Pesquisas, filtros e pagina conservam seu estado ao navegar e reabrir as telas. A busca evita refazer resultados equivalentes durante a digitacao.\n- Relatorios adapta graficos, legendas e totais a fontes ampliadas e ao tamanho de exibicao personalizado do celular, respeitando tambem teclado e bordas da tela.\n- Backups JSON recusam arquivos incompletos, repetidos ou acima dos limites antes de restaurar; datas legadas continuam compativeis. Exportacoes interrompidas recuperam apenas seus proprios arquivos temporarios.\n- Indicadores de sincronizacao e backups reconhecem gravacoes e exclusoes ainda pendentes, sem apagar o cache ou a fila offline.\n- Entrada Google e verificacao de acesso tratam prazos, retomadas e respostas antigas; permissoes negadas nao sao confundidas com falha temporaria de internet.\n- Avisos de atualizacao respeitam preferencia, canal, permissao e bateria; uma nova versao pode avisar novamente, e avisos acumulados offline priorizam a versao mais recente.\n- O progresso da atualizacao reaparece ao retornar ao app. Falhas ao abrir configuracoes ou instalador conservam o APK validado e permitem nova tentativa explicita, com nova verificacao de integridade e assinatura.\n- Fotos reutilizam um cache de memoria limitado; consultas e animacoes de telas ocultas deixam de executar trabalho desnecessario.\n- Diagnosticos explicitos removem mensagens variaveis para reduzir exposicao de dados, e o compartilhamento de arquivos permanece restrito aos destinos autorizados."
+  "versionCode": 53,
+  "versionName": "0.43.2",
+  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.43.2/controle-lavagens-v53-release.apk",
+  "sizeBytes": 4136096,
+  "sha256": "7d746dd1cec67801ba9435631fabe12186e8c1a1c28f6b2dc639a288487743e4",
+  "releaseNotes": "- A tela Notificacoes agora permite abrir uma atualizacao disponivel pelo botao Ver atualizacao, mesmo depois de escolher Lembrar depois. O aplicativo conserva o download em andamento e as verificacoes de seguranca antes da instalacao."
 }
