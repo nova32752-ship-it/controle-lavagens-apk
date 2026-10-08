@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "0.44.1",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.1/controle-lavagens-v57-release.apk",
-  "sizeBytes": 4580446,
-  "sha256": "2c3518793b4199d6d789158e1801769e69ed98bd4f0fb746da789d382a8343db",
-  "releaseNotes": "- Corrigido o campo de valor da lavagem para aceitar virgula e ponto decimal. Valores como 12,34 conservam os centavos no cadastro, na revisao e no rascunho.\n- Cadastro e recebimentos compartilham a configuracao do campo monetario, mantendo o teclado numerico e o tema do aplicativo."
+  "versionCode": 58,
+  "versionName": "0.44.2",
+  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.2/controle-lavagens-v58-release.apk",
+  "sizeBytes": 4580457,
+  "sha256": "dd71a9786168b5ee29d3d94645cf38be0140278ef2b60d794f86cdb40686df5c",
+  "releaseNotes": "- O painel, o historico e os relatorios deixam de apresentar falha de consulta enquanto o carregamento inicial ainda esta em andamento. Erros reais e avisos de cache/sincronizacao continuam visiveis quando aplicaveis.\n- Mantida a correcao da virgula decimal no cadastro, conferida no celular com 12,34 e revisao de R$ 12,34."
 }
