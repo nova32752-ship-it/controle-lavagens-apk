@@ -1,8 +1,8 @@
 {
-  "versionCode": 58,
-  "versionName": "0.44.2",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.2/controle-lavagens-v58-release.apk",
-  "sizeBytes": 4580457,
-  "sha256": "dd71a9786168b5ee29d3d94645cf38be0140278ef2b60d794f86cdb40686df5c",
-  "releaseNotes": "- O painel, o historico e os relatorios deixam de apresentar falha de consulta enquanto o carregamento inicial ainda esta em andamento. Erros reais e avisos de cache/sincronizacao continuam visiveis quando aplicaveis.\n- Mantida a correcao da virgula decimal no cadastro, conferida no celular com 12,34 e revisao de R$ 12,34."
+    "versionCode":  59,
+    "versionName":  "0.44.3",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.3/controle-lavagens-v59-release.apk",
+    "sizeBytes":  4580465,
+    "sha256":  "e138d5f0de4e725e43a79c6743cd2ce3c0cd39a0924c6e5b014e78648aeda040",
+    "releaseNotes":  "- Financeiro preserva o rascunho ao reabrir a primeira correcao de um recebimento e oferece Tentar novamente quando a consulta ou a quitacao falha.\n- Nova nota pendente reinicia a distribuicao para conservar a prioridade das notas mais antigas durante gravacoes simultaneas.\n- Movimentacoes identifica o veiculo; o botao Receber abre diretamente o registro do valor recebido e se diferencia do cadastro de lavagem.\n- Saldo mensal tem titulo e explicacao proprios no Financeiro e em Relatorios. Atualizacoes reutilizam os totais e a lista; detalhes sao preparados ao abrir a movimentacao."
 }
