@@ -1,8 +1,8 @@
 {
-    "versionCode":  59,
-    "versionName":  "0.44.3",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.3/controle-lavagens-v59-release.apk",
-    "sizeBytes":  4580465,
-    "sha256":  "e138d5f0de4e725e43a79c6743cd2ce3c0cd39a0924c6e5b014e78648aeda040",
-    "releaseNotes":  "- Financeiro preserva o rascunho ao reabrir a primeira correcao de um recebimento e oferece Tentar novamente quando a consulta ou a quitacao falha.\n- Nova nota pendente reinicia a distribuicao para conservar a prioridade das notas mais antigas durante gravacoes simultaneas.\n- Movimentacoes identifica o veiculo; o botao Receber abre diretamente o registro do valor recebido e se diferencia do cadastro de lavagem.\n- Saldo mensal tem titulo e explicacao proprios no Financeiro e em Relatorios. Atualizacoes reutilizam os totais e a lista; detalhes sao preparados ao abrir a movimentacao."
+    "versionCode":  60,
+    "versionName":  "0.44.4",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.4/controle-lavagens-v60-release.apk",
+    "sizeBytes":  4580451,
+    "sha256":  "079b65f2cbb1c077826c7d895fa14167aa324dfa6c2ee9c5adddf61127ba19d6",
+    "releaseNotes":  "- Corrigida a retomada da quitacao financeira ao voltar ao app, com releitura dos recebimentos e tentativas limitadas quando a conexao falha.\n- Retornos de operacoes antigas deixam de interferir depois de pausar o app ou sair da conta; rascunhos e observacoes das lavagens permanecem preservados.\n- Presenca online passa a separar cada reconexao e a limpar confirmacoes atrasadas sem remover a conexao atual.\n- Fotos de perfil conservam a imagem em cache durante falhas de rede e evitam downloads repetidos em sequencia.\n- Diagnostico diferencia indisponibilidade temporaria de rede de erros reais de permissao, autenticacao e dados financeiros.\n- Cancelar a escolha da conta Google encerra a espera sem apresentar falha de login. Falhas temporarias ao consultar atualizacoes continuam visiveis quando aplicavel, com diagnostico de rede recuperavel."
 }
