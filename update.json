@@ -1,8 +1,9 @@
 {
-  "versionCode": 62,
-  "versionName": "0.44.6",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.6/controle-lavagens-v62-release.apk",
-  "sizeBytes": 4893917,
-  "sha256": "c82b35340319efa718ac9366908559f014f80a97cd85a4bad7cbca4b7c2a00da",
-  "releaseNotes": "- Corrigidas recusas de permissão ao editar observação, status e valor de lavagens; a validação no servidor reaproveita textos inalterados e conserva as conferências financeiras e o isolamento da conta.\n- Corrigida uma recusa de permissão na transferência de notas quitadas antigas para Arquivadas. Paginação, observações e retenção dos detalhes conservam os valores financeiros.\n- A sincronização das lavagens ativas e pendentes passa a usar uma consulta compartilhada sem sobreposição, preservando referências reabertas por correções financeiras.\n- Medições técnicas de abertura, carregamento e gravação ajudam a identificar gargalos; eventos de uso acompanham telas, cadastro, recebimentos, backups e atualização sem incluir conteúdo dos registros ou valores financeiros nos eventos próprios.\n- O diagnóstico evita relatar duas vezes a mesma exceção tratada ao atravessar as camadas do app, mantendo a sanitização existente.\n- O acompanhamento da atualização distingue download validado, abertura do instalador e confirmação da nova versão na próxima abertura."
+    "versionCode":  63,
+    "versionName":  "0.44.7",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.7/controle-lavagens-v63-release.apk",
+    "sizeBytes":  5876480,
+    "sha256":  "f207358b78f5a15905e677c7416b1f08fc857c3aa13781cf615b059c7985a115",
+    "minimumSupportedVersionCode":  63,
+    "releaseNotes":  "- Sincronização entre aparelhos, perfis individuais, rascunhos recuperáveis e revisão de conflitos.\n- Financeiro mais leve, com saldos mais claros e correções nos recebimentos.\n- Interface compacta, filtros simplificados e navegação mais fluida, respeitando temas e fonte do celular.\n- Fundo da entrada, fotos e cards corrigidos; PDF/Excel incluem a situação das lavagens."
 }
