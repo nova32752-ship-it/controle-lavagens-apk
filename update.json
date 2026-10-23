@@ -1,9 +1,9 @@
 {
-    "versionCode":  64,
-    "versionName":  "0.44.8",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.8/controle-lavagens-v64-release.apk",
-    "sizeBytes":  5574275,
-    "sha256":  "e0aa294033b8f1fa7186baa2f076011717e9851ec54aef30ebd3d385b1c200b9",
+    "versionCode":  65,
+    "versionName":  "0.44.9",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.9/controle-lavagens-v65-release.apk",
+    "sizeBytes":  5574362,
+    "sha256":  "91df39abe47c76bc1cb706787cb840387103072a78baeb73d98a66142988bd3c",
     "minimumSupportedVersionCode":  63,
-    "releaseNotes":  "- Acesso em um aparelho por vez: saia da conta no atual para entrar em outro, preservando seus rascunhos.\n- Histórico financeiro preserva a posição e melhora a consulta e correção de recebimentos antigos.\n- Financeiro e Relatórios destacam valores estimados de rascunhos e mostram os períodos com mais clareza.\n- Telas mais legíveis, com melhor adaptação ao teclado e às fontes maiores. Ranking removido do Início.\n- Permissões com histórico de alterações e indicação de quando cada conta foi vista por último."
+    "releaseNotes":  "- Entrada deixa de abrir o aviso de verificação de sessão. O acesso continua protegido e diferencia sessão encerrada de conta reservada em outra instalação, com orientação para recuperar o acesso após reinstalar o app.\n- Saída da conta aguarda as gravações pendentes também durante a retomada do aplicativo, preservando os rascunhos antes de liberar o acesso."
 }
