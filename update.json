@@ -1,9 +1,9 @@
 {
-    "versionCode":  63,
-    "versionName":  "0.44.7",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.7/controle-lavagens-v63-release.apk",
-    "sizeBytes":  5876480,
-    "sha256":  "f207358b78f5a15905e677c7416b1f08fc857c3aa13781cf615b059c7985a115",
+    "versionCode":  64,
+    "versionName":  "0.44.8",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.8/controle-lavagens-v64-release.apk",
+    "sizeBytes":  5574275,
+    "sha256":  "e0aa294033b8f1fa7186baa2f076011717e9851ec54aef30ebd3d385b1c200b9",
     "minimumSupportedVersionCode":  63,
-    "releaseNotes":  "- Sincronização entre aparelhos, perfis individuais, rascunhos recuperáveis e revisão de conflitos.\n- Financeiro mais leve, com saldos mais claros e correções nos recebimentos.\n- Interface compacta, filtros simplificados e navegação mais fluida, respeitando temas e fonte do celular.\n- Fundo da entrada, fotos e cards corrigidos; PDF/Excel incluem a situação das lavagens."
+    "releaseNotes":  "- Acesso em um aparelho por vez: saia da conta no atual para entrar em outro, preservando seus rascunhos.\n- Histórico financeiro preserva a posição e melhora a consulta e correção de recebimentos antigos.\n- Financeiro e Relatórios destacam valores estimados de rascunhos e mostram os períodos com mais clareza.\n- Telas mais legíveis, com melhor adaptação ao teclado e às fontes maiores. Ranking removido do Início.\n- Permissões com histórico de alterações e indicação de quando cada conta foi vista por último."
 }
