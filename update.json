@@ -1,9 +1,9 @@
 {
-    "versionCode":  65,
-    "versionName":  "0.44.9",
-    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.9/controle-lavagens-v65-release.apk",
-    "sizeBytes":  5574362,
-    "sha256":  "91df39abe47c76bc1cb706787cb840387103072a78baeb73d98a66142988bd3c",
-    "minimumSupportedVersionCode":  63,
-    "releaseNotes":  "- Entrada deixa de abrir o aviso de verificação de sessão. O acesso continua protegido e diferencia sessão encerrada de conta reservada em outra instalação, com orientação para recuperar o acesso após reinstalar o app.\n- Saída da conta aguarda as gravações pendentes também durante a retomada do aplicativo, preservando os rascunhos antes de liberar o acesso."
+  "versionCode": 66,
+  "versionName": "0.44.10",
+  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.10/controle-lavagens-v66-release.apk",
+  "sizeBytes": 4052094,
+  "sha256": "267ac4ac494bfd877e849d2f395738d996e7f3b22f1836e879bb2a6b096eb25b",
+  "minimumSupportedVersionCode": 63,
+  "releaseNotes": "- Entrada por Google ou e-mail, senha e código de confirmação na mesma conta, preservando a aprovação e os dados.\n- Cadastro próprio com confirmação Google, controles de visibilidade da senha e mensagens de validação legíveis.\n- Corrigida a verificação do e-mail ao vincular a primeira senha e o encaminhamento das chamadas ao serviço de autenticação.\n- Um dispositivo por vez: novo login completo assume o acesso, com orientação específica quando a sessão termina.\n- Saída limpa o estado da confirmação por código e mantém a espera pelas gravações pendentes.\n- Recuperação de senha tem cotas separadas e reserva de envio somente para contas elegíveis, preservando a capacidade dos códigos de entrada.\n- Restauração de backup confere o conteúdo das correções financeiras e recusa histórico divergente, preservando revisões mais novas compatíveis.\n- Relatórios incluem todas as semanas disponíveis no período escolhido; notas em cache aparecem após confirmar o acesso, e Início reúne as dez lavagens mais recentes."
 }
