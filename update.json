@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
-  "versionName": "0.44.10",
-  "apkUrl": "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.10/controle-lavagens-v66-release.apk",
-  "sizeBytes": 4052094,
-  "sha256": "267ac4ac494bfd877e849d2f395738d996e7f3b22f1836e879bb2a6b096eb25b",
-  "minimumSupportedVersionCode": 63,
-  "releaseNotes": "- Entrada por Google ou e-mail, senha e código de confirmação na mesma conta, preservando a aprovação e os dados.\n- Cadastro próprio com confirmação Google, controles de visibilidade da senha e mensagens de validação legíveis.\n- Corrigida a verificação do e-mail ao vincular a primeira senha e o encaminhamento das chamadas ao serviço de autenticação.\n- Um dispositivo por vez: novo login completo assume o acesso, com orientação específica quando a sessão termina.\n- Saída limpa o estado da confirmação por código e mantém a espera pelas gravações pendentes.\n- Recuperação de senha tem cotas separadas e reserva de envio somente para contas elegíveis, preservando a capacidade dos códigos de entrada.\n- Restauração de backup confere o conteúdo das correções financeiras e recusa histórico divergente, preservando revisões mais novas compatíveis.\n- Relatórios incluem todas as semanas disponíveis no período escolhido; notas em cache aparecem após confirmar o acesso, e Início reúne as dez lavagens mais recentes."
+    "versionCode":  67,
+    "versionName":  "0.44.11",
+    "apkUrl":  "https://github.com/nova32752-ship-it/controle-lavagens-apk/releases/download/v0.44.11/controle-lavagens-v67-release.apk",
+    "sizeBytes":  4073391,
+    "sha256":  "7d03c14d45bef07485d4437d999cba701afcd40732b2eccfb7fa6d9f70adf29f",
+    "minimumSupportedVersionCode":  63,
+    "releaseNotes":  "- Entrada, cadastro e recuperação com visual unificado, fonte legível, ações acessíveis com o teclado e carregamento no botão acionado.\n- E-mails destacam código, prazo e recuperação, com alternativa em texto simples. A entrada mantém o e-mail ao girar a tela e acompanha a confirmação do acesso.\n- Recuperação de senha preserva a operação durante a rotação, permite conferir o link novamente e retorna diretamente ao aplicativo.\n- Corrigidas esperas prolongadas e interferências de tentativas antigas no login, cadastro e saída, preservando o preenchimento quando a conexão não confirma o resultado.\n- Valores de lavagem inválidos ou acima do limite são recusados sem conversão silenciosa; rascunhos antigos preservam os campos e voltam à etapa do valor para correção.\n- Corrigido o salvamento de notas pendentes recusado pelo servidor, mantendo status, observação, aprovação da conta e validação financeira.\n- Diagnóstico de falhas automático em segundo plano, com contexto técnico sanitizado e sem telas ou envio manual pelo usuário."
 }
